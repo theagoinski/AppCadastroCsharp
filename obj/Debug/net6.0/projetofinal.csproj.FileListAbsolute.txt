@@ -1,0 +1,5 @@
+/home/macagogo/Estudos/DIO/projetofinal/obj/Debug/net6.0/projetofinal.csproj.AssemblyReference.cache
+/home/macagogo/Estudos/DIO/projetofinal/obj/Debug/net6.0/projetofinal.GeneratedMSBuildEditorConfig.editorconfig
+/home/macagogo/Estudos/DIO/projetofinal/obj/Debug/net6.0/projetofinal.AssemblyInfoInputs.cache
+/home/macagogo/Estudos/DIO/projetofinal/obj/Debug/net6.0/projetofinal.AssemblyInfo.cs
+/home/macagogo/Estudos/DIO/projetofinal/obj/Debug/net6.0/projetofinal.csproj.CoreCompileInputs.cache
